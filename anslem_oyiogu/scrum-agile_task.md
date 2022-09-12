@@ -24,7 +24,7 @@ benefits in software development.
  </ul>
  
  <h3>From the Agile Manifesto, complete the following</h3>
- <p><b>Working software over</b>....processes and tools</p>
+ <p><b>Working software over</b>....comprehensive documentation</p>
  <p><b>Customer collaboration over</b>....contract negotiation</p>
  <p><b>Responding to change over</b>....following a plan</p>
  
