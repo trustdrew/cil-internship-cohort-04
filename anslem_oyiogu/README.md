@@ -6,4 +6,4 @@
   <li>To</li>
   <li>See here</li>
 </ul>
-<p>My name is Anslem oyiogu and this is a readdme file to test if i have succesfully cloned the cli repo</p>
+<p>My name is Anslem oyiogu and this is a readdme file to test if i have succesfully cloned the cli repo.</p>
